@@ -65,6 +65,14 @@ ro.camera.sound.disabled=1
 # USB Mounting
 persist.sys.usb.config=mass_storage,adb
 
+# Hardware info
+ro.device.chipset=Qualcomm Snapdragon S2 MSM8255
+ro.device.cpu=1 GHz Scorpion
+ro.device.gpu=Qualcomm Adreno 205
+ro.device.front_cam=Not Available
+ro.device.rear_cam=8 MP - AutoFocus - LED flash
+ro.device.screen_res=WVGA 480x800 pixels 4.3 inches
+
 # Disable kernel error checking
 ro.kernel.android.checkjni=0
 
